@@ -1,10 +1,31 @@
 {
-    "id": "090183c1-852e-46c3-812d-5bafff07a324",
-    "authors": [
-        "Lancelite - Made with AMP Config Generator"
-    ],
-    "origin": "https://github.com/Lancelite - Made with AMP Config Generator/AMPTemplates.git",
-    "url": "https://github.com/Lancelite - Made with AMP Config Generator/AMPTemplates",
-    "imagefile": "",
-    "prefix": "Lancelite - Made with AMP Config Generator"
+  "templates": [
+    {
+      "id": "vanilla-minecraft",
+      "displayName": "Vanilla Minecraft",
+      "description": "A standard Minecraft server",
+      "origin": "https://github.com/CubeCoders/AMPTemplates",
+      "url": "https://github.com/CubeCoders/AMPTemplates",
+      "prefix": "MC",
+      "configFile": "vanilla.kvp"
+    },
+    {
+      "id": "generic",
+      "displayName": "Generic Application",
+      "description": "A generic application template",
+      "origin": "https://github.com/CubeCoders/AMPTemplates",
+      "url": "https://github.com/CubeCoders/AMPTemplates",
+      "prefix": "GENERIC",
+      "configFile": "generic.kvp"
+    },
+    {
+      "id": "gtnh-lancelite",
+      "displayName": "GregTech New Horizons",
+      "description": "GregTech New Horizons AMP template",
+      "origin": "https://github.com/UnimatriXZ/AMPTemplates-gtnh",
+      "url": "https://github.com/UnimatriXZ/AMPTemplates-gtnh",
+      "prefix": "GTNH-LANCELITE",
+      "configFile": "gregtech-new-horizons.kvp"
+    }
+  ]
 }
