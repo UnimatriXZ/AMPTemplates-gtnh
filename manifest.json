@@ -1,9 +1,9 @@
-{
-  "id": "gtnh-lancelite",
-  "displayName": "GregTech New Horizons",
-  "description": "GregTech New Horizons 2.8.0 AMP template (GTNH)",
-  "origin": "https://github.com/<your-username>/AMPTemplates",
-  "url": "https://github.com/<your-username>/AMPTemplates",
-  "prefix": "GTNH-LANCELITE",
-  "configFile": "gregtech-new-horizons.kvp"
-}
+    {
+      "id": "gtnh-lancelite",
+      "displayName": "GregTech New Horizons",
+      "description": "GregTech New Horizons AMP template",
+      "origin": "https://github.com/UnimatriXZ/AMPTemplates-gtnh",
+      "url": "https://github.com/UnimatriXZ/AMPTemplates-gtnh",
+      "prefix": "GTNH-LANCELITE",
+      "configFile": "gregtech-new-horizons.kvp"
+    }
