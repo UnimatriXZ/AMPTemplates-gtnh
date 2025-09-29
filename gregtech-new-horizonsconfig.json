@@ -19,7 +19,7 @@
   "ConfigManifest": {
     "Port": {
       "type": "int",
-      "default": 25565
+      "default": 25576
     },
     "RCONPort": {
       "type": "int",
