@@ -14,7 +14,7 @@ Meta.AppConfigId=3d4ac0aa-782b-48cb-a711-a19530edb220
 App.AdminMethod=STDIO
 App.HasReadableConsole=true
 App.HasWritableConsole=true
-App.DisplayName=GregTech New Horizons
+App.DisplayName=GregTech: New Horizons
 App.CommandLineArgs=-Xms20G -Xmx20G -Dfml.readTimeout=180 @java9args.txt -jar lwjgl3ify-forgePatches.jar nogui
 App.WindowsCommandLineArgs=
 App.CommandLineParameterFormat=-{0} "{1}"
