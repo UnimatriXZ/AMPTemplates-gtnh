@@ -15,7 +15,7 @@ App.AdminMethod=STDIO
 App.HasReadableConsole=true
 App.HasWritableConsole=true
 App.DisplayName=GregTech: New Horizons
-App.CommandLineArgs=-Xms20G -Xmx20G -XX:+UseG1GC -Dfml.readTimeout=180 -Djava.system.class.loader=com.gtnewhorizons.retrofuturabootstrap.RfbSystemClassLoader -jar lwjgl3ify-forgePatches.jar nogui
+App.CommandLineArgs=-Xms20G -Xmx20G -XX:+UseG1GC -Dfml.readTimeout=180 -Djava.system.class.loader=com.gtnewhorizons.retrofuturabootstrap.RfbSystemClassLoader -jar ./gregtech-new-horizons/serverfiles/lwjgl3ify-forgePatches.jar nogui
 App.WindowsCommandLineArgs=
 App.CommandLineParameterFormat=-{0} "{1}"
 App.CommandLineParameterDelimiter= 
@@ -46,9 +46,9 @@ App.SteamForceLoginPrompt=False
 App.SupportsUniversalSleep=False
 App.WakeupMode=Any
 App.TemplateMatchRegex={{(\$?[\w]+)}}
-App.MonitorChildProcess=False
+App.MonitorChildProcess=True
 App.MonitorChildProcessWaitMs=1000
-App.MonitorChildProcessName=
+App.MonitorChildProcessName=lwjgl3ify-forgePatches.jar
 App.Compatibility=None
 App.SteamWorkshopDownloadLocation={{$FullBaseDir}}undefined
 Console.FilterMatchRegex=
